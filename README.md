@@ -20,7 +20,7 @@ or
 
 
 import React, { useState } from "react";
-import Autocomplete from "react-native-input-autocomplete";
+import { Autocomplete } from "react-native-input-autocomplete";
 
 const ExampleApp = props => {
 
