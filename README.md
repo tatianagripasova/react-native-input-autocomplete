@@ -78,8 +78,7 @@ const ExampleApp = props => {
 | dividerTitle | string | A string that divides the suggested list from the default list. |
 | onInputChange | function | The callback that will be called when the user starts typing in the input container. |
 | onSelect | function | The callback that will be called once the user selects an option from the autocomplete suggestions. |
-| hideAutocomplete | function | The callback hides the autocomplete component.
-|
+| hideAutocomplete | function | The callback hides the autocomplete component. |
 
 ## Contribute
 Feel free to open issues or do a PR!
