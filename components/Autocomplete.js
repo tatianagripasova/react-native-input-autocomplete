@@ -1,6 +1,8 @@
 import React, { useState } from "react";
-import Modal from "react-native-modal";
 import { View, StyleSheet, Text, ScrollView, TouchableWithoutFeedback, Dimensions } from "react-native";
+
+import Modal from "react-native-modal";
+import PropTypes from "prop-types";
 
 import Input from "./Input";
 import ImageButton from "./ImageButton";
