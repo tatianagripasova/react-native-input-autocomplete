@@ -1,6 +1,6 @@
 {
   "name": "react-native-input-autocomplete",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A simple and fully customizable React Native component that can be used for autocompletion when searching data from local or remote source.",
   "main": "index.js",
   "scripts": {
